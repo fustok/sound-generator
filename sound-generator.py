@@ -1,7 +1,7 @@
-##################
-# Fausto Cipriani# 
-#  03.10.2025    #
-##################
+###################
+# Fausto Cipriani # 
+#   03.10.2025    #
+###################
 # Simple sound generator for body-mind support frequencies
 # Generates a one-hour stereo WAV file of a sine wave at the specified frequency.
 # Usage: Adjust the `freq_hz` variable to the desired frequency and run the script
@@ -54,4 +54,5 @@ output_file = Path("c:/projects/sound-generator") / f"{freq_hz}Hz_one_hour.wav"
 write(str(output_file), sample_rate, stereo_wave_int)
 
 print(f"✅  {output_file} generated ({stereo_wave_int.nbytes / (1024*1024):.1f} MiB)")
+
 
