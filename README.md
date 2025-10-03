@@ -3,9 +3,11 @@
  Simple sound generator for body-mind support frequencies
  Generates a one-hour stereo WAV file of a sine wave at the specified frequency.
  Usage: Adjust the `freq_hz` variable to the desired frequency and run the script
- --------------------------------------------------------------------------------------------------------------------------------------------|
- Frequencies that are often used for body‑mind support                                                                                       |
- --------------------------------------------------------------------------------------------------------------------------------------------|
+ 
+ 
+ Frequencies that are often used for body‑mind support 
+ 
+ 
  | Category                 | Frequency (Hz)   | Typical Use / Context                | Commonly Reported Effect                             |
  |--------------------------|------------------|--------------------------------------|------------------------------------------------------|
  | Solfeggio (Healing)      | 396              | Liberating Guilt & Fear              | Grounding, release of negative emotions              |
@@ -22,4 +24,4 @@
  | Binaural Beat (Gamma)    | >30              | Cognitive tasks, peak concentration  | Enhanced memory, sensory perception                  |
  | Standard Tuning          | 440              | Modern music tuning                  | Baseline for most Western music                      |
  | “Earth tone”             | 432              | Natural vibration, harmonics         | Claimed calm, less “tightness” (subjective)          |
- --------------------------------------------------------------------------------------------------------------------------------------------|
+
